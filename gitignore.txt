@@ -1,0 +1,15 @@
+# OS & 편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 로그/캐시
+*.log
+__pycache__/
+*.pyc
+
+# 비밀키/환경변수
+.env
+*.pem
+*.key
